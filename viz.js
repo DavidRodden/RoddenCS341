@@ -6,7 +6,7 @@
  * - The options for the look of the chart to be drawn.
  * - How to draw the chart.
  *
- * @author: Tanya L. Crenshaw, David Rodden
+ * @author: Tanya L. Crenshaw, David Rodden Esquire
  * @since: Jan 6, 2015
  */
 
